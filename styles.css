@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.container{
+    height: 350px;
+}
+table,th,td{
+    border: 1px solid black;
+    text-align: center;
+   
+}
+
+.ted{
+    width: 250px;
+}
+.ted>table{
+    width: 100%;
+}
+#g{
+    background-color: black;
+    color: white;
+}
+
